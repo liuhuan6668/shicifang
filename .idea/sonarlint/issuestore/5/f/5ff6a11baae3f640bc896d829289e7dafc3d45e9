@@ -1,0 +1,10 @@
+
+_squid:S4488]"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Õç¼ñ
+fsquid:S4488?"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ÒË³þÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+fsquid:S4488J"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(üíÁÔùÿÿÿÿ
+esquid:S4488h"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(•“ÛÏ
+_squid:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+fsquid:S4488S"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢þÿÿÿÿ
+_squid:S44881"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ðÄâÿ
+vsquid:UselessImportCheck"KRemove this unused import 'org.springframework.cache.annotation.Cacheable'.(ÝºØ“8ª„Ë¯ó-

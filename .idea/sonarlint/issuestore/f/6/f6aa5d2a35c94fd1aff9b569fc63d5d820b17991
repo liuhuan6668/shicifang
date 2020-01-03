@@ -1,0 +1,11 @@
+
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ìó°¨8ø…¦àó-
+ssquid:S00116"TRename this field "sign_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÅÁÄ8€óáó-
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€ûøáó-
+Lsquid:S1481!")Remove this unused "name" local variable.(¿Ë£úÿÿÿÿÿ8Å­Ùäó-
+wsquid:S00116"XRename this field "template_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øš—ë8€óáó-
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(šî®üÿÿÿÿ8Å­Ùäó-
+[squid:S1854!"8Remove this useless assignment to local variable "name".(¿Ë£úÿÿÿÿÿ8Å­Ùäó-
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.( Ø—ƒ

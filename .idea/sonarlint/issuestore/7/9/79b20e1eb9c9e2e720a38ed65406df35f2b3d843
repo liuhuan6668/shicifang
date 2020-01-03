@@ -1,0 +1,18 @@
+
+gsquid:S1192š"HDefine a constant instead of duplicating this literal "address" 4 times.(è¬äî8»Ä½ó-
+xsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(É™ïğ8»Ä½ó-
+gsquid:S1192†"HDefine a constant instead of duplicating this literal "jobname" 4 times.(„ÒØÅ8»Ä½ó-
+jsquid:S1192ª"FDefine a constant instead of duplicating this literal "label" 4 times.(âÂµ‡øÿÿÿÿ8»Ä½ó-
+nsquid:S1192’"JDefine a constant instead of duplicating this literal "education" 4 times.(ö¶Ä§şÿÿÿÿ8»Ä½ó-
+hsquid:S1192®"IDefine a constant instead of duplicating this literal "content1" 4 times.(Å“€Ÿ8»Ä½ó-
+Ksquid:S1604|"(Make this anonymous inner class a lambda(Õ÷µ†øÿÿÿÿ8»Ä½ó-
+msquid:S1192²"IDefine a constant instead of duplicating this literal "content2" 4 times.(à›ßøÿÿÿÿ8»Ä½ó-
+ksquid:UselessImportCheck
+"BRemove this unused import 'javax.persistence.criteria.Expression'.(á¸ŠŠÿÿÿÿÿ
+fsquid:S1192Š"GDefine a constant instead of duplicating this literal "salary" 4 times.(Æ–É¯8»Ä½ó-
+esquid:UselessImportCheck"ARemove this unused import 'javax.persistence.criteria.Selection'.(”¤Ã¢
+jsquid:S1192¢"FDefine a constant instead of duplicating this literal "state" 4 times.(—şøüÿÿÿÿ8»Ä½ó-
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ
+jsquid:UselessImportCheck"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ
+nsquid:S1192"JDefine a constant instead of duplicating this literal "condition" 4 times.(®Áïúÿÿÿÿ8»Ä½ó-
+usquid:S3776z"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Û²»„ıÿÿÿÿ8»Ä½ó-

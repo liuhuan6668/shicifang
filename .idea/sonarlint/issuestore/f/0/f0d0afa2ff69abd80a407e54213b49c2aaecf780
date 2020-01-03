@@ -1,0 +1,16 @@
+
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñš·³þÿÿÿÿ
+‡squid:S1488i"pImmediately return this expression instead of assigning it to the temporary variable "querySendDetailsResponse".(åÀ£÷
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(£õî”
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(Â¿üÑûÿÿÿÿ8€¼Úãó-
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(Â¿üÑûÿÿÿÿ8äŒÕãó-
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Ž®š‹8À¨Âãó-
+Isquid:S1135!"2Complete the task associated to this TODO comment.(œ–„€
+nsquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åòÈÄþÿÿÿÿ
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(»Ýù›üÿÿÿÿ8À¨Âãó-
+hsquid:S11923"LDefine a constant instead of duplicating this literal "cn-hangzhou" 4 times.(À†Ãùÿÿÿÿ
+bsquid:S11920"FDefine a constant instead of duplicating this literal "10000" 4 times.(¾É…§ÿÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áòëøþÿÿÿÿ
+nsquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åòÈÄþÿÿÿÿ

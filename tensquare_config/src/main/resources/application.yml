@@ -1,0 +1,18 @@
+server:
+  port: 2020
+spring:
+  application:
+    name: tensquare-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/huihou/wode_dev.git
+
+  rabbitmq:
+    host: 192.168.233.10
+management: #暴露触发消息总线的地址
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

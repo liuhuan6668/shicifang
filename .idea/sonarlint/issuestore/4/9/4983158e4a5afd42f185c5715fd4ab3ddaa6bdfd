@@ -1,0 +1,5 @@
+
+Wsquid:S35162"9Refactor this method to not always return the same value.(“’è¨8” šÎõ-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(™©ùøÿÿÿÿ8” šÎõ-
+Tsquid:S2692>"10 is a valid index, but is ignored by this check.(ŒÊˆ‡ùÿÿÿÿ8” šÎõ-

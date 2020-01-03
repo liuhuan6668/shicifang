@@ -1,0 +1,15 @@
+
+Esquid:S1604›"(Make this anonymous inner class a lambda(ÏïóÇÿÿÿÿÿ
+Usquid:S3655v"7Call "Optional#isPresent()" before accessing the value.(òÑ¯÷8şØ¿ßó-
+gsquid:S1192¥"JDefine a constant instead of duplicating this literal "loginname" 4 times.(ïšù¦ÿÿÿÿÿ
+jsquid:UselessImportCheck"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'javax.persistence.criteria.Expression'.(á¸ŠŠÿÿÿÿÿ
+csquid:S1192­"FDefine a constant instead of duplicating this literal "state" 4 times.(—şøüÿÿÿÿ
+V
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ŠÅ‘8óşÇŠô-
+qsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(É™ïğ
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(¦Ÿ˜«şÿÿÿÿ8Îæ–¯õ-
+fsquid:S1192©"IDefine a constant instead of duplicating this literal "password" 4 times.(ş·˜éøÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'javax.persistence.criteria.Selection'.(”¤Ã¢
+Jsquid:S1172F",Remove this unused method parameter "admin".(äÌô¶8Ü‡—¯õ-
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(¥Í¡ùÿÿÿÿ8Ü‡—¯õ-

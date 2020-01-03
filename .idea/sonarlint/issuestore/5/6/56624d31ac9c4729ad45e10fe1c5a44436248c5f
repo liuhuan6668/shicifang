@@ -1,0 +1,14 @@
+
+isquid:S3776v"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(›¢é…
+csquid:S1192–"FDefine a constant instead of duplicating this literal "ishot" 4 times.(Öã¹½ıÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ
+psquid:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(É™ïğ
+esquid:S1192†"HDefine a constant instead of duplicating this literal "summary" 4 times.(Öûúÿÿÿÿ
+csquid:S1192’"KDefine a constant instead of duplicating this literal "coordinate" 4 times.(°£÷­
+?squid:S1604x"(Make this anonymous inner class a lambda(·Ä’ç
+jsquid:UselessImportCheck"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ
+ksquid:UselessImportCheck
+"BRemove this unused import 'javax.persistence.criteria.Expression'.(á¸ŠŠÿÿÿÿÿ
+dsquid:S1192"GDefine a constant instead of duplicating this literal "labels" 4 times.(˜…ôÈúÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'javax.persistence.criteria.Selection'.(”¤Ã¢
+`squid:S1192Š"HDefine a constant instead of duplicating this literal "address" 4 times.(è¬äî

@@ -1,0 +1,13 @@
+
+csquid:S1192…"FDefine a constant instead of duplicating this literal "title" 4 times.(òğ¸Àøÿÿÿÿ
+bsquid:S1192™"JDefine a constant instead of duplicating this literal "replyname" 4 times.(Ğ¢¿æ
+^squid:S1192•"FDefine a constant instead of duplicating this literal "solve" 4 times.(®ãœ–
+`squid:S1192‰"HDefine a constant instead of duplicating this literal "content" 4 times.(èÜ¨ß
+_squid:S1192"GDefine a constant instead of duplicating this literal "userid" 4 times.(Â–ïó
+ksquid:UselessImportCheck"BRemove this unused import 'javax.persistence.criteria.Expression'.(á¸ŠŠÿÿÿÿÿ
+?squid:S1604{"(Make this anonymous inner class a lambda(ªçïÈ
+esquid:UselessImportCheck"ARemove this unused import 'javax.persistence.criteria.Selection'.(”¤Ã¢
+jsquid:UselessImportCheck"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ
+fsquid:S1192‘"IDefine a constant instead of duplicating this literal "nickname" 4 times.(˜ª¶ùÿÿÿÿ
+nsquid:S3776y"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Èù®»ùÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(É™ïğ
